@@ -111,6 +111,8 @@ public class DrawHelix : MonoBehaviour
             var next = vertexArray[(i + 1)];
             GL.Vertex3(offset.x + now.x, offset.y + now.y, 0);
             GL.Vertex3(offset.x + next.x, offset.y + next.y, 0);
+
+            GL.TexCoord2((float)i/count,0.0f);
         }
 
 
