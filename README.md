@@ -1,3 +1,3 @@
 # Harmonograph
 
-https://www.youtube.com/watch?v=Ni7_8vPGzT8
+[photo](https://photos.app.goo.gl/TEXJQTF67sxkoT3W6)
