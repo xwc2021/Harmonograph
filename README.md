@@ -1,3 +1,3 @@
 # Harmonograph
 
-[photo](https://photos.app.goo.gl/TEXJQTF67sxkoT3W6)
+[photo](https://photos.app.goo.gl/B4DF7miwqrNtvW1F6)
